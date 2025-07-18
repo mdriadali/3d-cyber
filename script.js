@@ -420,7 +420,7 @@ gsap.to(".page2", {
     end: `bottom top`,
     pin: true,
     scroller: `.main`,
-     markers: true,
+    //  markers: true,
   },
 });
 gsap.to(".page3", {
@@ -430,7 +430,7 @@ gsap.to(".page3", {
     end: `bottom top`,
     pin: true,
     scroller: `.main`,
-     markers: true,
+    //  markers: true,
   },
 });
 gsap.to(".page4", {
@@ -440,6 +440,6 @@ gsap.to(".page4", {
     end: `bottom top`,
     pin: true,
     scroller: `.main`,
-     markers: true,
+    //  markers: true,
   },
 });

@@ -356,7 +356,7 @@ gsap.to(imageSeq, {
     start: "top top",
     end: "600% top",
     scroll: ".main",
-    markers: true,
+    // markers: true,
   },
   onUpdate: render,
 });
@@ -409,7 +409,7 @@ ScrollTrigger.create({
   scroller: ".main",
   start: "top top",
   end: "600% top",
-   markers: true,
+  //  markers: true,
 });
 
 
